@@ -29,3 +29,8 @@ Emotionのキャッチアップ用リポジトリ
 - TypeScriptとの相性
 
 いずれもStyled Componentと同様な感じ。パフォーマンスの面でEmotionに軍配が上がる
+
+## 参考
+- https://zenn.dev/gekitenius/articles/approuter_with_emotion_202401
+- https://emotion.sh/docs/install
+- https://qiita.com/cheez921/items/1d13545f8a0ea46beb51
