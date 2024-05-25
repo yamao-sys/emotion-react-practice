@@ -34,3 +34,4 @@ Emotionのキャッチアップ用リポジトリ
 - https://zenn.dev/gekitenius/articles/approuter_with_emotion_202401
 - https://emotion.sh/docs/install
 - https://qiita.com/cheez921/items/1d13545f8a0ea46beb51
+- https://dev.classmethod.jp/articles/react-typescript-emotion-theming/
